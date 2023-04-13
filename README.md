@@ -1,3 +1,4 @@
+![docu0001-0250 (1)](https://user-images.githubusercontent.com/57118670/231835951-76bfe8ef-0020-4456-8e89-c8ba2ce9793b.gif)
 # svg2rapid
 SVG 2 RAPID contains scripts that convert vector files in SVG format to robot motion paths for ABB robots.
 
